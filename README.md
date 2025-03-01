@@ -28,3 +28,10 @@ This project provides real-time analytics and AI-driven insights for product man
 2. **Run Streamlit UI**
 
 
+## Future Enhancements
+- Add **A/B Testing Insights**
+- Implement **Real-time Notifications for Feature Adoption**
+- Expand **Competitor Benchmarking with Web Scraping**
+
+
+
