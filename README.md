@@ -25,4 +25,6 @@ This project provides real-time analytics and AI-driven insights for product man
 
 ### Running the Project
 1. **Start API Backend**
+2. **Run Streamlit UI**
+
 
