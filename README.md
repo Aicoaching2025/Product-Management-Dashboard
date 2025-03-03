@@ -1,7 +1,7 @@
 # AI-Powered Product Management Dashboard
 
 ## Project Overview
-This project provides real-time analytics and AI-driven insights for product managers to track feature adoption, analyze user sentiment, and predict engagement trends.
+This project provides real-time analytics and AI-driven insights for product managers to track feature adoption, analyze user sentiment, and predict engagement trends. Code in progress.
 
 ## Tech Stack
 - **Databricks**: Data processing
